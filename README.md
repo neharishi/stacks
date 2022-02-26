@@ -1,2 +1,2 @@
 # stacks
-This program creates and modifies a stack. 
+This program creates and modifies a stack abstraction. 
